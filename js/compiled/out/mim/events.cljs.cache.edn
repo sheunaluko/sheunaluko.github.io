@@ -1,0 +1,1 @@
+{:rename-macros {}, :renames {}, :use-macros {}, :excludes #{}, :name mim.events, :imports nil, :requires {re-frame re-frame.core, re-frame.core re-frame.core, db mim.db, mim.db mim.db}, :uses nil, :require-macros nil, :cljs.analyzer/constants {:seen #{:initialize-db}, :order [:initialize-db]}, :doc nil}
